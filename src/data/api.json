@@ -5,7 +5,6 @@
       "name": "G15 Gaming Laptop",
       "price": "85490",
       "info": "10th Generation Intel® Core™ i5-10200H",
-      "quantity": "0",
       "src": {
         "tiny": "https://images.pexels.com/photos/461077/pexels-photo-461077.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
       }
@@ -15,7 +14,6 @@
       "name": "Legion 5i (15)",
       "price": "68990",
       "info": "Powered by up to 10th Gen Intel® Core™ i7",
-      "quantity": "0",
       "src": {
         "tiny": "https://images.pexels.com/photos/238118/pexels-photo-238118.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
       }
@@ -25,7 +23,6 @@
       "name": "ThinkBook 14 Gen 2 (Intel)",
       "price": "76990",
       "info": "Turbocharge your business Lenovo ThinkBook 14 Gen 2.",
-      "quantity": "0",
       "src": {
         "tiny": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
       }
@@ -34,7 +31,6 @@
       "id": "1004",
       "name": "Lenovo BQIN IdeaPad 5 Laptop",
       "price": "66990",
-      "quantity": "0",
       "info": "39.62 cm (15.6 inch) Full HD Display,Windows 10 Home 64 Operating System",
       "src": {
         "tiny": "https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
@@ -44,7 +40,6 @@
       "id": "1005",
       "name": "ALIENWARE M15",
       "price": "239989",
-      "quantity": "0",
       "info": "11th Generation Intel® Core™ i7 11800,Windows 10 Home 64-bit ",
       "src": {
         "tiny": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
@@ -54,7 +49,6 @@
       "id": "1006",
       "name": "Yoga 7i(14,Intel)",
       "price": "99990",
-      "quantity": "0",
       "info": "Meet the Yoga 7i (14) Core™ i7, Full HD Display and stunning visuals.",
       "src": {
         "tiny": "https://images.pexels.com/photos/34088/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
